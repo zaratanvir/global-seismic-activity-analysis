@@ -1,7 +1,5 @@
 # Global Seismic Activity Analysis
 
-![Project Preview](screenshots/earthquake-map.png)
-
 A geospatial and statistical analysis project focused on understanding global earthquake behavior using seismic visualization, temporal analysis, and tectonic activity mapping.
 
 ---
